@@ -1,3 +1,3 @@
-pub fn part1(inp: String) {
-    println!("{}", inp.chars().rev().collect::<String>());
+pub fn part1(input: String) {
+    println!("{}", input.chars().rev().collect::<String>());
 }
